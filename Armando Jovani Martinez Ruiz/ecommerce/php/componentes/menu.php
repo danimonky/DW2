@@ -53,7 +53,7 @@
                                         echo '<a class="dropdown-item" href="#">Cuenta</a>
                                         <a class="dropdown-item" href="#">Configuración</a>
                                         <div class="dropdown-divider"></div>
-                                        <a class="dropdown-item" href="#">Iniciar Sesión</a>';    
+                                        <a class="dropdown-item" data-toggle="modal" data-target="#login" href="#">Iniciar Sesión</a>';    
                                     }else{
                                         echo '<a class="dropdown-item" href="#">Editar categorias</a>
                                         <a class="dropdown-item" href="#">Editar productos</a>
