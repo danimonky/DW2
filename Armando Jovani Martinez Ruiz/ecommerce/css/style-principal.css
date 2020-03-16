@@ -126,6 +126,10 @@ header .logo{
     margin-left: 30px;
 }
 
+.products .card .btn{
+    margin: 0 3rem;
+}
+
 /* Footer */
 .footer{
     background-color: black;
