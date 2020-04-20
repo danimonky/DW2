@@ -1,0 +1,1 @@
+Catálogo en linea en tiempo real (según su inventario)
